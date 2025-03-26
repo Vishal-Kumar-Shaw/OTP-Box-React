@@ -9,3 +9,4 @@ Very small project but you can learn may things like
 5. onKeyDown event(was good)
 6. isNaN function
    
+![image](https://github.com/user-attachments/assets/0d8c21ce-967f-44d2-883a-5d3df92428d6)
